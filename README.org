@@ -1,0 +1,8 @@
+* Lemegeton
+Summoning the 72 Goetic demons with emoji.  Inspired by
+https://twitter.com/joffeorama/status/897708037850451968.
+* Installing dependencies
+
+#+BEGIN_SRC sh
+  yarn install
+#+END_SRC
