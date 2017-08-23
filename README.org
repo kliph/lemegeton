@@ -1,6 +1,11 @@
 * Lemegeton
 Summoning the 72 Goetic demons with emoji.  Inspired by
 https://twitter.com/joffeorama/status/897708037850451968.
+
+See also: http://www.esotericarchives.com/solomon/goetia.htm for
+reference and
+https://github.com/mouse-reeve/grimgraph/blob/10538f3c14e8818df26fe77e3fd77b1219d7f67f/one-offs/goetia.json
+for data.
 * Installing dependencies
 
 #+BEGIN_SRC sh
