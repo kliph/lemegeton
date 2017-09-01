@@ -4,3 +4,6 @@ node_modules/
 out/
 target/
 main.js
+.cljs_node_repl/
+.nrepl-port
+figwheel_server.log

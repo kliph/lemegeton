@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "emoji-from-word": "^1.2.7"
+    "emoji-from-word": "^1.2.7",
+    "ws": "^3.1.0"
   }
 }
