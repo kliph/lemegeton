@@ -1,10 +1,14 @@
 (ns lemegeton.core
   (:require [cljs.nodejs :as nodejs]
-            [js.hello]))
+            [emojilib]))
+
+(def emojis (js->clj (.-lib emojilib) :keywordize-keys true))
+(def ordered (map keyword (.-ordered emojilib)))
+
 
 (nodejs/enable-util-print!)
 
 (defn -main [& args]
-  (js.hello/sayHello))
+  (println (:char (get emojis :candle))))
 
 (set! *main-cli-fn* -main)

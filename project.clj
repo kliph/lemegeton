@@ -17,5 +17,5 @@
                                                     :output-to "main.js"
                                                     :output-dir "out"
                                                     :target :nodejs
-                                                    :foreign-libs [{:file "src"
-                                                                    :module-type :commonjs}]}}]}}})
+                                                    :npm-deps {:emojilib "2.2.9"}
+                                                    :install-deps false}}]}}})
