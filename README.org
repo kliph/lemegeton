@@ -6,6 +6,8 @@ See also: http://www.esotericarchives.com/solomon/goetia.htm for
 reference and
 https://github.com/mouse-reeve/grimgraph/blob/10538f3c14e8818df26fe77e3fd77b1219d7f67f/one-offs/goetia.json
 for data.
+* TODO Fuzzy matching for string searching?
+[[http://yomguithereal.github.io/clj-fuzzy/clojure.html]]
 * Installing dependencies
 
 #+BEGIN_SRC sh
