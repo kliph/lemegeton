@@ -1,6 +1,5 @@
 (ns lemegeton.core
   (:require [cljs.nodejs :as nodejs]
-            [emojilib]
             [lemegeton.data :as d]))
 
 (nodejs/enable-util-print!)
