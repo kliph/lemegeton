@@ -1,0 +1,6 @@
+#!/bin/bash
+set -e
+
+lein clean
+
+lein doo node test once
