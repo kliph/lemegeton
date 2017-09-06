@@ -1,3 +1,3 @@
 #!/bin/sh
 
-curl --output src/data/emojis.json https://raw.githubusercontent.com/muan/emojilib/master/emojis.json
+curl --output src/data/emojis.json --create-dirs https://raw.githubusercontent.com/muan/emojilib/master/emojis.json
