@@ -9,3 +9,4 @@ test.js
 .nrepl-port
 figwheel_server.log
 .projectile
+src/data/emojis.json
