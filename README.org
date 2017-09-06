@@ -1,4 +1,6 @@
 * Lemegeton
+[[https://circleci.com/gh/kliph/lemegeton.svg?style=svg]]
+
 Summoning the 72 Goetic demons with emoji.  Inspired by
 https://twitter.com/joffeorama/status/897708037850451968.
 
