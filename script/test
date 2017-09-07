@@ -3,4 +3,8 @@ set -e
 
 lein clean
 
-lein doo node test once
+if [ -n "$1" ]; then
+    lein doo node test $1
+else
+    lein doo node test once
+fi
