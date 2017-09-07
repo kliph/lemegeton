@@ -25,6 +25,6 @@
                                         {:id "test"
                                          :source-paths ["src" "test"]
                                          :compiler {:output-to "test.js"
-                                                    :output-dir "out"
+                                                    :output-dir "out/test"
                                                     :target :nodejs
                                                     :main "lemegeton.runner"}}]}}})
