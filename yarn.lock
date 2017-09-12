@@ -152,10 +152,6 @@ duplexer2@^0.1.2, duplexer2@~0.1.0:
   dependencies:
     readable-stream "^2.0.2"
 
-emojilib@^2.2.9:
-  version "2.2.9"
-  resolved "https://registry.yarnpkg.com/emojilib/-/emojilib-2.2.9.tgz#ec5722689fc148f56422c14b0dc16a901d446b75"
-
 enhanced-resolve@3.4.1:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/enhanced-resolve/-/enhanced-resolve-3.4.1.tgz#0421e339fd71419b3da13d129b3979040230476e"

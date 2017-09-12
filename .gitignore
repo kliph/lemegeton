@@ -8,3 +8,5 @@ test.js
 .cljs_node_repl/
 .nrepl-port
 figwheel_server.log
+.projectile
+src/data/emojis.json
