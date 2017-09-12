@@ -1,5 +1,6 @@
 (ns lemegeton.core
   (:require [cljs.nodejs :as nodejs]
+            [lemegeton.classifier :as c]
             [lemegeton.data :as d]))
 
 (nodejs/enable-util-print!)
@@ -8,6 +9,6 @@
   (:char (get d/emojis :candle)))
 
 (defn -main [& args]
-  (println (get-candle)))
+  (println (c/my-main)))
 
 (set! *main-cli-fn* -main)
