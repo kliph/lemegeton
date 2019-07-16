@@ -20,6 +20,7 @@
                                                     :output-to "main.js"
                                                     :output-dir "out"
                                                     :target :nodejs
+                                                    :infer-externs true
                                                     :npm-deps {:emojilib "2.2.9"}
                                                     :install-deps false}}
                                         {:id "test"

@@ -58,6 +58,5 @@
                                                (js/console.log k d acc)
                                                (assoc {} k d))))))
                                      {:invalid 1000}
-                                     (shuffle all-keys)))
-        foo (map distances words)]
-    foo))
+                                     (shuffle all-keys)))]
+    (map distances words)))
