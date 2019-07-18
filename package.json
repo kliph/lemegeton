@@ -2,9 +2,11 @@
   "dependencies": {
     "@cljs-oss/module-deps": "^1.1.1",
     "emojilib": "^2.2.9",
-    "ws": "^3.1.0"
+    "ws": "^3.3.1"
   },
   "devDependencies": {
+    "cached-path-relative": "^1.0.2",
+    "debug": "^2.6.9",
     "lodash": "^4.17.14"
   }
 }
