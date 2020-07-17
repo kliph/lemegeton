@@ -7,7 +7,7 @@
   "devDependencies": {
     "cached-path-relative": "^1.0.2",
     "debug": "^2.6.9",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "resolutions": {
     "babel-traverse/**/lodash": "4.17.15",
